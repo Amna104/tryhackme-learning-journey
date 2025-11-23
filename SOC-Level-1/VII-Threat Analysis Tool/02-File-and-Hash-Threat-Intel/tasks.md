@@ -64,20 +64,12 @@ Attackers constantly rename malware.
 **Windows CMD**
 certutil -hashfile bl0gger.exe SHA256
 
-markdown
-Copy code
-
 **PowerShell**
 Get-FileHash -Algorithm SHA256 bl0gger.exe
-
-markdown
-Copy code
 
 **Linux**
 sha256sum bl0gger.exe
 
-markdown
-Copy code
 
 ### 📝 Analyst Guidelines
 - Store hashes in **lowercase**  
