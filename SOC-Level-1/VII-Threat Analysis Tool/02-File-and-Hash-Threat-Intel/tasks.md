@@ -70,7 +70,6 @@ Get-FileHash -Algorithm SHA256 bl0gger.exe
 **Linux**
 sha256sum bl0gger.exe
 
-
 ### 📝 Analyst Guidelines
 - Store hashes in **lowercase**  
 - Hash **everything that matters** (zip file + extracted binary)  
