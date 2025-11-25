@@ -8,4 +8,4 @@ Currently completing the **Junior Security Analyst Journey**, focusing on SOC op
 - Threat Detection & Escalation  
 - Firewall and SIEM Fundamentals  
 
-🔗 [View My TryHackMe Profile](https://tryhackme.com/p/yourusername)
+🔗 [View My TryHackMe Profile](https://tryhackme.com/p/amna.arshad)
